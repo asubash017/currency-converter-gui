@@ -42,7 +42,7 @@ This project uses [Fixer.io](https://fixer.io) API for real-time currency data.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/yourusername/currency-converter-gui.git
 cd currency-converter
 
 2. Create a virtual environment (optional but recommended):
