@@ -57,3 +57,6 @@ pip install -r requirements.txt
 
 
 4. Replace API_KEY in main.py with your own Fixer.io API key.
+
+**Run the program:**
+python main.py
